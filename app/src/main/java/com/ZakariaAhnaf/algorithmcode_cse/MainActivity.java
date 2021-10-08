@@ -11,11 +11,22 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        int arr[] = {10, 2, 10};
+        int arr[] = {10, 2, 13, 56};
         int n = arr.length;
+        int deletedPosition = 2;
 
-        SecondLargestElement.print2largestSimpleSoulation(arr, n);
-        SecondLargestElement.printSecondLargestElementEfficientSolution(arr, n);
+//        SecondLargestElement.print2largestSimpleSoulation(arr, n);
+          SecondLargestElement.printSecondLargestElementEfficientSolution(arr, n);
+//        TraverseArray.TraverseArray(arr);
+//        InsertAnElement.InsertAnElement(arr, 50, 3, 3);
+
+
+
+//        for delete method call
+//        n = DeleteAnElement.DeleteAnElement(arr, n, deletedPosition);
+//        System.out.println("Modified array is");
+//        for (int i = 0; i < n; i++)
+//            System.out.println(arr[i]+" ");
     }
 
     //for First Salutation
@@ -26,7 +37,6 @@ public class MainActivity extends AppCompatActivity {
         4) if array[i] != array[size -1] //second & first if same
                 print array[i], return.
         5) End Loop - NOT Found
-
      */
 
 

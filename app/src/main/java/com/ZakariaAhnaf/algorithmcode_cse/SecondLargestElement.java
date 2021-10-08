@@ -31,7 +31,7 @@ public class SecondLargestElement {
 
     }
 
-    
+
 
 
     //Second Salutation Liner Search And SWAP
@@ -51,7 +51,6 @@ public class SecondLargestElement {
                 second = first;
                 first = arr[i];
             }
-
             /* If arr[i] is in between first and
            second then update second  */
             else if(arr[i] > second && arr[i] != first){
