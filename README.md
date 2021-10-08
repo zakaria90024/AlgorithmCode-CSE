@@ -1,5 +1,9 @@
 # AlgorithmCode-CSE
     //Second Largest Element - 2 Way
+    >>> Class - https://github.com/zakaria90024/AlgorithmCode-CSE/blob/32a7415d4d1a1430bc831572159906b0c476ca81/app/src/main/java/com/ZakariaAhnaf/algorithmcode_cse/SecondLargestElement.java
+    
+    >>> Call Method - https://github.com/zakaria90024/AlgorithmCode-CSE/blob/32a7415d4d1a1430bc831572159906b0c476ca81/app/src/main/java/com/ZakariaAhnaf/algorithmcode_cse/MainActivity.java
+
 
     //for First Salutation
     /*
