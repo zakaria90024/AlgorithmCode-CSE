@@ -3,6 +3,14 @@ package com.ZakariaAhnaf.algorithmcode_cse;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.util.Log;
+
+import com.ZakariaAhnaf.algorithmcode_cse.Ques2OOP.Employee;
+import com.ZakariaAhnaf.algorithmcode_cse.Ques2OOP.Faculty;
+import com.ZakariaAhnaf.algorithmcode_cse.Ques2OOP.MyDate;
+import com.ZakariaAhnaf.algorithmcode_cse.Ques2OOP.Person;
+import com.ZakariaAhnaf.algorithmcode_cse.Ques2OOP.Staff;
+import com.ZakariaAhnaf.algorithmcode_cse.Ques2OOP.Student;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -11,12 +19,49 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        int arr[] = {10, 2, 13, 56};
-        int n = arr.length;
-        int deletedPosition = 2;
+
+        Person person = new Person();
+        person.toString();
+        Log.d("Here", ""+person.toString());
+
+        Student student = new Student();
+        student.toString();
+        Log.d("Here", ""+student.toString());
+
+        Employee employee = new Employee();
+        employee.toString();
+        Log.d("Here", ""+employee.toString());
+
+        Faculty faculty = new Faculty();
+        faculty.toString();
+        Log.d("Here", ""+faculty.toString());
+
+
+        Staff staff = new Staff();
+        staff.toString();
+        Log.d("Here", ""+staff.toString());
+
+        MyDate myDate = new MyDate();
+        myDate.toString();
+        Log.d("Here", ""+myDate.toString());
+
+
+
+
+
+
+
+
+
+
+
+
+//        int arr[] = {10, 2, 13, 56};
+//        int n = arr.length;
+//        int deletedPosition = 2;
 
 //        SecondLargestElement.print2largestSimpleSoulation(arr, n);
-          SecondLargestElement.printSecondLargestElementEfficientSolution(arr, n);
+          //SecondLargestElement.printSecondLargestElementEfficientSolution(arr, n);
 //        TraverseArray.TraverseArray(arr);
 //        InsertAnElement.InsertAnElement(arr, 50, 3, 3);
 
@@ -54,4 +99,6 @@ public class MainActivity extends AppCompatActivity {
         3) Return the value stored in second.
 
      */
+
+
 }
