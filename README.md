@@ -5,8 +5,15 @@
   [MainActivity.java](https://github.com/zakaria90024/AlgorithmCode-CSE/blob/32a7415d4d1a1430bc831572159906b0c476ca81/app/src/main/java/com/ZakariaAhnaf/algorithmcode_cse/MainActivity.java)
 
  [SecondLargestElement.java](https://github.com/zakaria90024/AlgorithmCode-CSE/blob/32a7415d4d1a1430bc831572159906b0c476ca81/app/src/main/java/com/ZakariaAhnaf/algorithmcode_cse/SecondLargestElement.java).
-  
  
+ 
+   [TraverseArray.java](https://github.com/zakaria90024/AlgorithmCode-CSE/blob/c943663510e71ccb352b56d8236f8dfec750ec2f/app/src/main/java/com/ZakariaAhnaf/algorithmcode_cse/TraverseArray.java).
+  
+   [InsertAnElement.java](https://github.com/zakaria90024/AlgorithmCode-CSE/blob/c943663510e71ccb352b56d8236f8dfec750ec2f/app/src/main/java/com/ZakariaAhnaf/algorithmcode_cse/InsertAnElement.java).
+   
+   
+   [DeleteAnElement.java](https://github.com/zakaria90024/AlgorithmCode-CSE/blob/c943663510e71ccb352b56d8236f8dfec750ec2f/app/src/main/java/com/ZakariaAhnaf/algorithmcode_cse/DeleteAnElement.java).
+  
 
     //for First Salutation
     /*
